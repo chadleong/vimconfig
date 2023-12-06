@@ -1,4 +1,6 @@
 syntax on
+set clipboard=unnamed
+inoremap jk <ESC>
 set tabstop=2
 set shiftwidth=2
 set expandtab
